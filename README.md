@@ -4,7 +4,7 @@ A machine learning-based Streamlit web application that predicts whether a custo
 
 ## 🚀 Demo
 
-[🔗 View Live App (if deployed)](https://customerchurnprediction-8cmbhcplqb92fvzkk5zrzh.streamlit.app/)
+[🔗 View Live App ](https://customerchurnprediction-8cmbhcplqb92fvzkk5zrzh.streamlit.app/)
 
 ---
 
@@ -24,10 +24,15 @@ The project includes:
 
 Customer_Churn_Prediction/
 ├── app.py # Streamlit web app
+
 ├── model.pkl # Trained RandomForestClassifier model
+
 ├── encoders.pkl # Encoders for categorical columns
+
 ├── churn_prediction.ipynb # Jupyter notebook used for training
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project overview
 
 ---
